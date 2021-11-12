@@ -12,7 +12,7 @@ I am freelance software engineer offering to contract outside IR35 in London. My
 - Python / Django (10 yrs experience)
 - Debian, Ubuntu, nginx, Numpy, Pandas
 - PostgreSQL, Redis, K8S, Airflow
-- vue.js, node.ks
+- vue.js, node.js
 
 Secondary skills: 
 
