@@ -2,7 +2,8 @@
 
 Hi, **I am Martin**, but I go by **Visgean on the internet**. I am interested in renewables, deep learning, weather and software engineering in general.
 
-I am freelance software engineer offering to contract outside IR35 in London. 
+I help companies with API development and software engineering on freelance basis in London and worldwide. In past I have enjoyed collaborating with Machine learning engineers and data scientist to help put their experiments to production.
+
 
 ## Links
 
